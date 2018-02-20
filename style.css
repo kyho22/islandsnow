@@ -9,3 +9,18 @@
   box-shadow: none;
 }
 
+.grey-background {
+  background-color: #292929;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  height: 200px;
+}
+
+h2 {
+  color: white;
+  font-size: 10px;
+}
+
+.column {
+  color: white;
+}
