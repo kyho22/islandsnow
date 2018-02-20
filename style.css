@@ -3,3 +3,9 @@
   border: none;
   box-shadow: none;
 }
+
+.ui.borderless.top.menu {
+  border: none;
+  box-shadow: none;
+}
+
